@@ -5,7 +5,9 @@
     "components/swiper/swiper",
     "pages/category/category",
     "pages/cart/cart",
-    "components/goods-list/goods-list"
+    "components/goods-list/goods-list",
+    "pages/search/search",
+    "pages/goods/goods"
   ],
   "window": {
     "backgroundTextStyle": "light",
