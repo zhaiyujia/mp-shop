@@ -1,6 +1,12 @@
 // components/goods-list/goods-list.js
-Page({
+Component({
 
+  properties: {
+    goodsData: {
+      type: Array,
+      value: []
+    }
+  },
   /**
    * 页面的初始数据
    */
