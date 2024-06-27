@@ -1,0 +1,13 @@
+<view class="list">
+  <view class="item">
+    <view class="googs_img">
+      <image mode="widthFix" src="http://iwenwiki.com:3001/images/goods/1.webp"/>
+    </view>
+    <view class="goods_info">
+      <text class="goods_name">松下</text>
+      <view class="goods_price">
+        ¥<text>21298</text>.00
+      </view>
+    </view>
+  </view>
+</view>

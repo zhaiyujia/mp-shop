@@ -10,7 +10,9 @@
       <van-grid-item wx:key="index" icon-color="{{ item.color }}" icon="{{ item.icon }}" text="{{ item.text }}" wx:for="{{ navData }}" />
     </van-grid>
   </view>
-
+  <view>
+    <goods-list></goods-list>
+  </view>
 
 
 
