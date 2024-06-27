@@ -1,5 +1,4 @@
 {
-  "appid": "wxe5fa52100d5ce87c",
   "compileType": "miniprogram",
   "libVersion": "3.4.8",
   "packOptions": {
@@ -17,7 +16,8 @@
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
-    }
+    },
+    "ignoreUploadUnusedFiles": true
   },
   "condition": {},
   "editorSetting": {
